@@ -1,0 +1,22 @@
+Holistic Personality Profile
+
+Scale: 1-10 (1-3: Low, 4-7: Moderate, 8-10: High)
+
+Trait Sections:
+
+I. Emotional Intelligence (EQ): Focuses on self-awareness, self-regulation, and interpersonal skills.
+Emotional Regulation: (Combines Anger Management, Mood Stability, Patience) Ability to manage emotions effectively, including anger, mood swings, and frustration.
+Empathy & Compassion: (Combines Empathy, Compassion, Kindness) Understanding and sharing the feelings of others, showing kindness and concern.
+Social Skills: (Combines Sociability, Communication Skills, Teamwork, Conflict Resolution, Assertiveness) Ability to interact effectively with others, communicate clearly, and navigate social situations.
+
+II. Cognitive & Intellectual Abilities (IQ & Beyond): Focuses on thinking, learning, and adapting.
+Intellect & Curiosity: (Combines Intelligence, Curiosity, Openness to Change) Cognitive ability, eagerness to learn, and receptiveness to new ideas.
+Creativity & Vision: (Combines Creativity, Visionary Thinking, Sense of Humor) Capacity for original thought, strategic thinking about the future, and a sense of humor.
+Adaptability & Resilience: (Combines Adaptability, Resilience) Ability to adjust to change and bounce back from setbacks.
+
+III. Behavioral & Conative Traits (Drive & Actions): Focuses on motivation, work habits, and personal conduct.
+Responsibility & Discipline: (Combines Responsibility, Discipline, Consistency, Punctuality, Work Ethic) Accountability for actions, self-control, and dedication to tasks.
+Integrity & Trustworthiness: (Combines Trustworthiness, Honesty, Loyalty, Fairness) Adherence to moral principles, honesty, and loyalty.
+Courage & Proactiveness: (Combines Courage, Proactiveness, Risk-Taking Behavior) Willingness to face challenges, take initiative, and embrace calculated risks.
+Self-Confidence & Leadership: (Combines Confidence, Leadership, Motivation) Belief in one's abilities, ability to motivate others, and drive to achieve goals.
+Work-Life Balance: (Remains as a distinct trait) Effective management of professional and personal life.
