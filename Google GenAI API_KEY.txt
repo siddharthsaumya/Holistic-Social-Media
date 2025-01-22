@@ -1,0 +1,3 @@
+Google GenAI API_KEY
+
+AIzaSyBv3eUS8aZBuVj2kxgz45mdjDEuuA1VrOo
