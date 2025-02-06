@@ -1,0 +1,15 @@
+Pages:
+
+1. Authentication Pages
+	(only input or number + Password field) if account exists then direct login else ask for rest user details
+2. Landing page
+	(Will have navigation for these sections, User Profile, Search, Connections, QnA)
+3. User profile will have user information and edit options, Reward, faq, rating history, help, logout, delete account etc.
+4. Search functionality will have search bar only and we can search there.
+5. Connection profile will have existing connections list and pending requests.
+6. On clicking user's profile, a profile page will open which will display user info and details that a user allows to be shown. And score of that user will be visible to all.
+7. While accepting a connecion request or while sending connection request you need to specify what relationhip do you have with them. 
+8. On the profile of a user we can send connection request, rate them, see their summary etc.
+9. There will be limited rating coins and new coins will be given daily.
+10. Overall score of a person defines their profile color.
+11. Reward system will have rewards for rating someone

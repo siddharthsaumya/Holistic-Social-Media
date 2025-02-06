@@ -24,52 +24,6 @@ Dietary Preferences (vegetarian, vegan, non-vegetarian, etc.)
 Religious/Spiritual Beliefs
 Medical Conditions
 
-
-User Personality Parameters:
-Anger Management 
-Patience 
-Empathy 
-Stress Tolerance
-Forgiveness 
-Kindness 
-Humbleness 
-Respectfulness 
-Trustworthiness 
-Intelligence 
-Curiosity 
-Creativity 
-Decision-Making Skills
-Adaptability 
-Discipline 
-Responsibility 
-Consistency 
-Punctuality 
-Work Ethic
-Honesty 
-Loyalty 
-Fairness 
-Courage 
-Compassion 
-Accountability 
-Confidence 
-Leadership 
-Visionary 
-Risk-Taking
-Sociability, Communication Skills, Teamwork, Independence, Work-Life Balance
-Curiosity, Creativity, Adaptability, Visionary Thinking
-Decision-Making, Compassion, Conflict Resolution, Empathy, Honesty
-Discipline, Punctuality, Consistency, Work Ethic, Risk-Taking Behavior
-Creativity, Curiosity, Openness to Change, Visionary Thinking
-Work Ethic, Punctuality, Consistency, Responsibility, Discipline
-Sociability, Assertiveness, Confidence, Leadership, Motivation
-Kindness, Empathy, Trustworthiness, Forgiveness, Humbleness
-Anger Management, Stress Tolerance, Mood Stability, Resilience
-Assertiveness, Leadership, Courage, Proactiveness, Decision-Making
-Sociability, Communication Skills, Motivation, Sense of Humor
-.Patience, Humbleness, Kindness, Loyalty, Responsibility
-Discipline, Punctuality, Consistency, Fairness, Work Ethic
-
-
 Badges:
 Travel (Solo traveller, Not traveller, wanderer, etc etc)
 Communication (Good communictor, bad etc)
